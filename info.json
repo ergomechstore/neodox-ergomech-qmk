@@ -1,7 +1,13 @@
 {
-    "keyboard_name": "",
-    "url": "",
-    "maintainer": "qmk",
+    "keyboard_name": "Neodox - Ergomech",
+    "manufacturer": "Ergomech Store",
+    "url": "https://ergomech.store/shop/neodox-sandwich-style-exclusive-418",
+    "maintainer": "Ergomech Store",
+    "usb": {
+        "vid": "0x4D44",
+        "pid": "0x5244",
+        "device_version": "0.0.1"
+    },
     "layouts": {
         "LAYOUT": {
             "layout": [
