@@ -19,6 +19,8 @@ The firmware is fully supported by VIAL, this is the firmware folder for compili
 
 - Copy the Newdox folder to `vial-qmk/keyboards`
 
+- run `make git-submodule` 
+
 - Compile the firmware: `qmk compile -kb neodox_ergomech/rev1 -km vial`
 
 ### How to flash the firmware
